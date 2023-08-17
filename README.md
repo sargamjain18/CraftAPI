@@ -8,6 +8,7 @@ communicating with Mojang. Furthermore, this project is used for experimenting w
 ## Features
 * add a new line
 * hello sargam
+* hiiii
 * Minimal requirements to integrate it into Sponge, BungeeCord and Spigot
 * Compatibility with Minecraft 1.7.10+
 * Thread-Safe
